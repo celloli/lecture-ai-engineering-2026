@@ -12,3 +12,11 @@ learning_log/
 
 # macOS
 .DS_Store
+
+# 第2回: 評価記録を保存し、モデル重み・チェックポイントを除外する
+lectures/02/results/**/adapter/
+lectures/02/results/**/ckpt/
+lectures/02/results/**/*.safetensors
+lectures/02/results/**/*.bin
+lectures/02/results/**/*.pt
+lectures/02/results/**/*.pth

@@ -1,0 +1,7 @@
+{
+  "condition": "baseline20",
+  "num_train_epochs": 20,
+  "status": "awaiting_colab_run",
+  "executed_training_myself": false,
+  "training_completed": false
+}
