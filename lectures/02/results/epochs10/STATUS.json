@@ -1,0 +1,7 @@
+{
+  "condition": "epochs10",
+  "num_train_epochs": 10,
+  "status": "awaiting_colab_run",
+  "executed_training_myself": false,
+  "training_completed": false
+}
